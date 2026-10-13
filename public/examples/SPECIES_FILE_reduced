@@ -1,0 +1,6 @@
+#Species
+#AtomicName AtomicWeight StartIndex EndIndex
+Mg  12 0   31
+Si  14 32  63
+O    8 64  155
+S   16 156 159
